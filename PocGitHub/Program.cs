@@ -11,6 +11,7 @@ namespace PocGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("HELLO WORLD");
+            Console.WriteLine("Version 1.0");
 
             Console.ReadKey();
         }
